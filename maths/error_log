@@ -1,0 +1,35 @@
+[19-Aug-2020 09:02:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[20-Aug-2020 04:47:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[23-Aug-2020 05:22:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/studeqt0/public_html/education/maths/geometry.php:1) in /home1/studeqt0/public_html/education/maths/geometry.php on line 16
+[02-Sep-2020 08:52:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[03-Sep-2020 07:36:02 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/studeqt0/public_html/education/maths/aljebra.php:1) in /home1/studeqt0/public_html/education/maths/aljebra.php on line 16
+[03-Sep-2020 09:35:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/studeqt0/public_html/education/maths/applied.php:1) in /home1/studeqt0/public_html/education/maths/applied.php on line 16
+[13-Sep-2020 03:37:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[21-Sep-2020 13:01:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[28-Oct-2020 07:46:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[16-Nov-2020 09:38:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
+[28-Apr-2021 06:26:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home1/studeqt0/public_html/education/maths/mathsPhysics.php:157
+Stack trace:
+#0 {main}
+  thrown in /home1/studeqt0/public_html/education/maths/mathsPhysics.php on line 157
