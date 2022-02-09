@@ -1,0 +1,105 @@
+body {margin:0;font-family:Arial}
+
+.headnav {
+  font-weight: bold;
+  width: 150%;
+  font-size: 18px;
+  overflow: hidden;
+}
+
+.headnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  color: white;
+}
+
+.headnav .icon {
+  display: none;
+}
+
+.subjects {
+  float: left;
+  overflow: hidden;
+}
+
+.subject .subjectbtn {
+  font-size: 17px;    
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.subjects-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.subjects-content a {
+  color: blueviolet;
+  float: none;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.headnav a:hover, .subjects:hover .subjectbtn {
+  background-color: #555;
+  color: white;
+}
+
+.subjects-content a:hover {
+  background-color: green;
+  color: black;
+}
+
+.subjects:hover .subjects-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .headnav a:not(:first-child), .subjects .subjectbtn {
+    display: none;
+  }
+  .headnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .headnav.responsive {position: relative;}
+  .headnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .headnav.responsive .subjects {float: none;}
+  .headnav.responsive .subjects-content {position: relative;}
+  .headnav.responsive .subjects .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
